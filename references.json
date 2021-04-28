@@ -1,0 +1,5 @@
+{
+    "references": {
+        "fastqc_adapters": "/data/NCBR/projects/csi_test_batch/resources/fastqc.adapters",
+    }
+}
